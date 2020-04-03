@@ -1,0 +1,16 @@
+{
+  "bot": {
+    "name": "Exile Music",
+    "token": "Njk1NzE2OTYxODg3NDUzMjk2.XoeaSw.F6LENCneqn39dThhapwWdXcoH_c",
+    "owners": [
+      "466314050050195456"
+    ],
+    "delete_cmd_messages": true,
+    "default_cmd_prefix": "!",
+    "activity_text": "Exile In the Max"
+  },
+  "youtube": {
+    "token": "AIzaSyDS5bMnXbAAFMQQBKkLGlCerNbv8OBau0g",
+    "base_url": "https://www.youtube.com"
+  }
+}
