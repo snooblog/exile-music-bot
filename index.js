@@ -35,4 +35,4 @@ client.registry
 
 process.on('unhandledRejection', console.error);
 
-client.login(process.env.token);
+client.login(Njk1NzE2OTYxODg3NDUzMjk2.XoeaSw.F6LENCneqn39dThhapwWdXcoH_c);
